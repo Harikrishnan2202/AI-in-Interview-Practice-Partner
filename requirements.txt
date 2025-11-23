@@ -1,0 +1,23 @@
+# Core LLM packages (compatible & available)
+google-generativeai==0.3.2
+langchain-google-genai==0.0.9
+
+# LangChain core packages
+langchain==0.1.20
+langchain-core==0.1.52
+
+# LangGraph compatible with this langchain-core
+langgraph==0.0.40
+
+# Framework + UI
+streamlit==1.32.0
+
+# Audio + Utilities
+gTTS==2.5.1
+ffmpeg-python==0.2.0
+
+# Helpers
+python-dotenv==1.0.1
+pydantic==2.7.1
+requests==2.32.3
+tqdm==4.66.4
