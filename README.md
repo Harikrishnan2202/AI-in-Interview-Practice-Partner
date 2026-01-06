@@ -103,7 +103,7 @@ interview-practice-partner/
 
 ⚙️ Setup Instructions
 1️⃣ Clone the project
-git clone https://github.com/saranyapsmv/interview-practice-partner.git
+git clone https://github.com/Harikrishnan2202/AI-in-Interview-Practice-Partner.git
 cd interview-practice-partner
 
 2️⃣ Create a virtual environment
@@ -227,4 +227,4 @@ This project is released under the MIT License.
 🙌 Contributors
 
 Created & enhanced by
-SARANYA P
+HARIKRISHNAN S
